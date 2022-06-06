@@ -1,0 +1,116 @@
+p{
+	font-family: 'Roboto';
+	color: white;
+	font-weight: 1000;
+	letter-spacing: 2px;
+	font-size: 12px;
+	text-align: center;
+	padding-top: 50px;
+}
+
+body{
+	background-color: grey;
+}
+
+h1{
+	font-family: 'Oswald';
+	text-align: center;
+	margin-top: 50px;
+	color: white;
+	font-weight: 750;
+	letter-spacing: 3px;
+	font-size: 40px;
+}
+
+img{
+	width: 100;
+	height: 250px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: auto;
+}
+
+h2{
+	font-family: 'Oswald';
+	text-align: center;
+	margin-top: 50px;
+	color: white;
+	font-weight: 750;
+	letter-spacing: 3px;
+	font-size: 30px;
+}
+
+tr{
+	font-family: 'Roboto';
+	text-decoration: underline;
+	color: white;
+	font-weight: 1000;
+	letter-spacing: 2px;
+	font-size: 22px;
+	text-align: center;
+}
+
+.bande-annonce{
+	font-family: 'Oswald';
+	text-decoration: underline;
+	text-align: center;
+	margin-top: 50px;
+	color: white;
+	font-weight: 750;
+	letter-spacing: 3px;
+	font-size: 30px;
+}
+
+.tp{
+	font-family: 'Roboto';
+	background-color: darkgrey;
+	color: darkorange;
+	font-weight: 1000;
+	letter-spacing: 3px;
+	font-size: 15px;
+	margin-left: 30px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+.tp:hover{
+	color: orange;
+	background-color: white;
+	padding: 10px 10px;
+	cursor: pointer;
+	transition: all 0.5s ease-in-out;
+}
+
+.ash:hover{
+	width: 150;
+	height: 300px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: auto;
+	transition: all 0.5s ease-in-out;
+	cursor: pointer;
+}
+
+.iana:hover{
+	width: 150;
+	height: 300px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: auto;
+	transition: all 0.5s ease-in-out;
+	cursor: pointer;
+}
+
+.mav:hover{
+	width: 150;
+	height: 300px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: auto;
+	transition: all 0.5s ease-in-out;
+	cursor: pointer;
+}
